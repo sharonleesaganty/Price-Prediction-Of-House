@@ -77,7 +77,8 @@ print(f'Predicted House Price: {predicted_price[0]}')
 **Programming Environment:**  
 
    - Jupyter Notebook: Used for writing and testing Python code in an interactive environment, 
-enabling easy visualization and debugging.   
+enabling easy visualization and debugging.
+  
 **Programming Language:**
 
    - Python: The primary language used for data preprocessing, analysis, and implementing machine  learning models which include libraries as well.
